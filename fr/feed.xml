@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>単語聞き流し フランス語</title>
+    <link>https://po33shibakitaos.github.io/vocab-listen-fr/</link>
+    <language>fr</language>
+    <description>フランス語の単語を級ごとに聞き流す自分用の番組（フランス語A1・フランス語A2・フランス語B1）。級はシーズンで分かれています。</description>
+    <itunes:author>単語聞き流し</itunes:author>
+    <itunes:image href="https://po33shibakitaos.github.io/vocab-listen-fr/fr/cover.png"/>
+    <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>フランス語A1 第1回 単語1〜200</title>
+      <description>フランス語A1の単語 1-200 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/a1-01.mp3" length="11710266" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-a1-ep01</guid>
+      <pubDate>Wed, 25 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1463</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語A1 第2回 単語201〜400</title>
+      <description>フランス語A1の単語 201-400 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/a1-02.mp3" length="12113660" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-a1-ep02</guid>
+      <pubDate>Wed, 25 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1514</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語A1 第3回 単語401〜600</title>
+      <description>フランス語A1の単語 401-600 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/a1-03.mp3" length="11541884" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-a1-ep03</guid>
+      <pubDate>Wed, 25 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1442</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語A2 第1回 単語1〜180</title>
+      <description>フランス語A2の単語 1-180 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/a2-01.mp3" length="11227194" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-a2-ep01</guid>
+      <pubDate>Thu, 26 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1403</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語A2 第2回 単語181〜360</title>
+      <description>フランス語A2の単語 181-360 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/a2-02.mp3" length="11327420" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-a2-ep02</guid>
+      <pubDate>Thu, 26 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1415</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語A2 第3回 単語361〜540</title>
+      <description>フランス語A2の単語 361-540 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/a2-03.mp3" length="11139836" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-a2-ep03</guid>
+      <pubDate>Thu, 26 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1392</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語A2 第4回 単語541〜720</title>
+      <description>フランス語A2の単語 541-720 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/a2-04.mp3" length="10966268" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-a2-ep04</guid>
+      <pubDate>Thu, 26 Nov 2026 06:04:00 +0900</pubDate>
+      <itunes:duration>1370</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語A2 第5回 単語721〜900</title>
+      <description>フランス語A2の単語 721-900 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/a2-05.mp3" length="11046908" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-a2-ep05</guid>
+      <pubDate>Thu, 26 Nov 2026 06:05:00 +0900</pubDate>
+      <itunes:duration>1380</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語B1 第1回 単語1〜188</title>
+      <description>フランス語B1の単語 1-188 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/b1-01.mp3" length="11934138" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-b1-ep01</guid>
+      <pubDate>Fri, 27 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1491</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語B1 第2回 単語189〜376</title>
+      <description>フランス語B1の単語 189-376 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/b1-02.mp3" length="12258620" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-b1-ep02</guid>
+      <pubDate>Fri, 27 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1532</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語B1 第3回 単語377〜564</title>
+      <description>フランス語B1の単語 377-564 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/b1-03.mp3" length="11740796" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-b1-ep03</guid>
+      <pubDate>Fri, 27 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1467</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語B1 第4回 単語565〜752</title>
+      <description>フランス語B1の単語 565-752 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/b1-04.mp3" length="11647292" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-b1-ep04</guid>
+      <pubDate>Fri, 27 Nov 2026 06:04:00 +0900</pubDate>
+      <itunes:duration>1455</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語B1 第5回 単語753〜940</title>
+      <description>フランス語B1の単語 753-940 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/b1-05.mp3" length="12222716" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-b1-ep05</guid>
+      <pubDate>Fri, 27 Nov 2026 06:05:00 +0900</pubDate>
+      <itunes:duration>1527</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語B1 第6回 単語941〜1128</title>
+      <description>フランス語B1の単語 941-1128 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/b1-06.mp3" length="11841021" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-b1-ep06</guid>
+      <pubDate>Fri, 27 Nov 2026 06:06:00 +0900</pubDate>
+      <itunes:duration>1480</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語B1 第7回 単語1129〜1316</title>
+      <description>フランス語B1の単語 1129-1316 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/b1-07.mp3" length="12156862" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-b1-ep07</guid>
+      <pubDate>Fri, 27 Nov 2026 06:07:00 +0900</pubDate>
+      <itunes:duration>1519</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>フランス語B1 第8回 単語1317〜1500</title>
+      <description>フランス語B1の単語 1317-1500 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-fr/fr/b1-08.mp3" length="11858302" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-b1-ep08</guid>
+      <pubDate>Fri, 27 Nov 2026 06:08:00 +0900</pubDate>
+      <itunes:duration>1482</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
